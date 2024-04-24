@@ -14,7 +14,7 @@ My aim is to further hone my skills in cybersecurity, system administration, and
 
 - **Languages:** Python, Bash, JavaScript
 - **Web:** HTML, CSS
-- **Server Tech:** Apache HTTP Server
+- **Server Tech:** Apache HTTP Server and NGINX
 - **System Administration**
 - **Penetration Testing**
 - **Networks**
