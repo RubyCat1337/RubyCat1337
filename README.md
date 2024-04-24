@@ -15,4 +15,7 @@ My aim is to further hone my skills in cybersecurity, system administration, and
 - **Server Tech:** Apache HTTP Server
 - **System Administration**
 - **Penetration Testing**
+- **Networks**
+- **Linux/Unix**
+- **TCP/IP**
 - **Certification:** Cisco Certified Cyber Security
