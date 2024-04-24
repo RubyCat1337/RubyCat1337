@@ -3,7 +3,7 @@
 ## Who am I
 
 I'm a Computer Science student with experience in software development using Python, Bash, JavaScript, HTML, CSS, and Apache HTTP server configuration.  
-Additionally, I have knowledge of SQL. I specialize in information security and networking, conducting penetration tests on websites and web applications.  
+Additionally, I have knowledge of SQL. I specialize in information security and networking, conducting penetration tests on websites and web applications.
 I also possess documentation and reporting skills and am certified by Cisco.
 
 ## My Objectives
